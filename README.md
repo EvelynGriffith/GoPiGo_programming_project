@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is designed to engage the community with engineering and robotics so that children in the community can see what sorts of things a robot like GoPiGo can do. The objective of this project is for the robot to execuste a set of functions that allow it to draw an ice cream cone. The only drawback is that the robot must be altered to include a pen. When I did it, I just taped a pen on to the bottom of the robot. 
+This project is designed to engage the community with engineering and robotics principles. The GoPiGo robot will draw an ice cream cone through a set of python functions so that children can see what sorts of things a robot like GoPiGo can do. The objective of this project is for the GoPiGo to have two functions. The first will draw a triangle, and the second will draw a set of circles. The only tricky aspect of this is that the robot must be altered to include a pen. The easiest way to achieve this is to tape a pen to the underside of the robot.  
 
 ### Starting with the robot
 
@@ -13,6 +13,3 @@ This project is designed to engage the community with engineering and robotics s
   **Note:** When you are done using GoPiGo, turn off the robot first. Then, after the robot has shut down completely, turn off the rechargeable battery pack. If you turn off the battery before the robot, you run the risk of corrupting the microSD card.
 
 - Finally, play around with your robot. Try to operate it via remote control. Then, begin experimenting with programs in Python.
-
-### 2 Robot Design for Community Demonstrations
-
