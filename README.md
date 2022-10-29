@@ -21,7 +21,7 @@
 
 - The only tricky aspect of this project is that the robot can be prone to consistency errors. What should be considered is that the robot's wheels can occassionaly get caught and ruin the test run. The other thing that I found is that the robot will occassionaly change the percentage of it's turns so that it will end at a place that contradicts the code specifications. 
 
-### How to limit the amount of errors
+### How to limit errors
 
 - The best thing to do to minimize these errors is to limit obstacles and outside varaibles. Make sure that the paper is taped down and on as flat a surface as possible. Also, when testing the percentage of each turn, be sure to try and find the turn angle that is the least prone to error in your environment. 
 
